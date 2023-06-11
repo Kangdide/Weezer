@@ -1,0 +1,20 @@
+title: Weezer
+originalAuthor: Kangdide
+description: What's With These Hommies Dissin' My Girl?
+assets:
+- name: remastered\obj\B_EX120_HB_LV99.a.us\voice\battle\us\n_dancer_hb
+  method: copy
+  source:
+  - name: n_dancer_hb.scd
+- name: remastered\obj\B_EX120_HB_LV99.a.us\se\obj\se265
+  method: copy
+  source:
+  - name: se265.scd
+- name: remastered\obj\B_EX120_HB.a.us\voice\battle\us\n_dancer_hb
+  method: copy
+  source:
+  - name: n_dancer_hb.scd
+- name: remastered\obj\B_EX120_HB.a.us\se\obj\se265
+  method: copy
+  source:
+  - name: se265.scd
